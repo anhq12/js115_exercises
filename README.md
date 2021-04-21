@@ -1,3 +1,3 @@
-# js115_exercises
+# JS115 Homework
 
 BTVN cho lop js4e115
